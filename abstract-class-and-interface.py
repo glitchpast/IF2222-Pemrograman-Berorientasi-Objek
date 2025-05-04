@@ -1,7 +1,7 @@
 """
 Abstract Class adalah sebuah kelas yang berfungsi sebagai template untuk kelas lain.
 Kelas ini tidak dapat diinstansiasi. Metode dalam kelas abstrak harus diimplementasikan oleh kelas yang mewarisi kelas abstrak tersebut. Jika tidak diimplementasikan, maka akan terjadi error.
-Interface adalah sebuah kontrak yang mendefinisikan metode yang harus diimplementasikan oleh kelas yang mewarisi interface tersebut.
+Interface adalah sebuah kontrak yang mendefinisikan metode yang harus diimplementasikan oleh kelas yang mewarisi interface tersebut. Kelas ini juga tidak dapat diinstansiasi
 
 Perbedaan utama antara abstract class dan interface adalah:
 1. Abstract class dapat memiliki implementasi metode, sedangkan interface tidak dapat memiliki implementasi metode.
